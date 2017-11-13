@@ -1,0 +1,20 @@
+2HE297 | BUD389 | deposito | USD | 2575 | 0 | 1XY789 | 3 bulan | 25-1-2017 
+1XY789 | BUD389 | tabungan mandiri | IDR | 1423334 | 0 | - | - | 28-10-2015 
+4ER789 | IRN387 | tabungan rencana | IDR | 1923888 | 500000 | - | 1 tahun | 24-10-2015 
+4EY218 | HAH492 | deposito | IDR | 9500000 | 0 | - | 6 bulan | 1-5-2017 
+5IQ837 | WEW777 | tabungan rencana | IDR | 10200000 | 600000 | - | 5 tahun | 1-5-2017 
+0CG620 | AKU700 | tabungan mandiri | IDR | 3100000 | 0 | - | - | 1-5-2017 
+3FN501 | MEH388 | tabungan rencana | IDR | 5070000 | 1000000 | - | 20 tahun | 1-5-2017 
+7HS138 | LOL398 | tabungan mandiri | IDR | 516112 | 0 | - | - | 1-5-2017 
+7SJ312 | YOO101 | deposito | USD | 1000 | 0 | - | 6 bulan | 1-5-2017 
+3QX002 | XYZ909 | deposito | EUR | 10000 | 0 | - | 12 bulan | 1-5-2017 
+2IN472 | HAH492 | tabungan rencana | IDR | 1000 | 1000000 | - | 12 tahun | 1-5-2017 
+3KE578 | XYZ909 | deposito | USD | 601 | 0 | - | 1 bulan | 1-5-2017 
+5CM864 | XYZ909 | tabungan mandiri | IDR | 1171700 | 0 | - | - | 1-5-2017 
+6VV745 | BET424 | tabungan rencana | IDR | 1623456 | 777777 | 3VB020 | 7 tahun | 1-5-2017 
+3VB020 | BET424 | tabungan mandiri | IDR | 1932707 | 0 | - | - | 1-5-2017 
+2KM000 | HAH492 | tabungan mandiri | IDR | 2053918 | 0 | - | - | 1-5-2017 
+2PW414 | HAH492 | deposito | USD | 935 | 0 | 1RN310 | 12 bulan | 1-5-2017 
+8WL366 | WEW777 | tabungan mandiri | IDR | 348007 | 0 | - | - | 1-5-2017 
+1HF218 | ABC456 | deposito | IDR | 9000000 | 0 | - | 3 bulan | 1-5-2017 
+3DD471 | YOO101 | tabungan mandiri | IDR | 1095000 | 0 | - | - | 1-5-2017 

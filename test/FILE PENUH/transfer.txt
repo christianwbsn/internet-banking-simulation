@@ -1,0 +1,20 @@
+1XY789 | 2HE297 | dalam bank | - | IDR | 500000 | 5310000 | 23-9-2016 
+1XY789 | DFTR23 | antar bank | Bank PQR | IDR | 500000 | 491000 | 24-9-2016 
+0CG620 | 5IQ837 | dalam bank | - | IDR | 100000 | 400000 | 1-5-2017 
+0CG620 | k234jadsf | antar bank | Bank adsf | IDR | 100 | 371600 | 1-5-2017 
+1XY789 | 4EY218 | dalam bank | - | IDR | 500000 | 4000000 | 1-5-2017 
+8WL366 | 1099828399 | antar bank | Bank bni | IDR | 25000 | 5369 | 1-5-2017 
+3VB020 | 8WL366 | dalam bank | - | IDR | 2000000 | 7000000 | 1-5-2017 
+8WL366 | 48001828938 | antar bank | Bank bca | IDR | 500000 | 1478769 | 1-5-2017 
+3DD471 | 5CM864 | dalam bank | - | IDR | 4000000 | 6000000 | 1-5-2017 
+3DD471 | 19876468 | antar bank | Bank mandiri | IDR | 3000000 | 1195000 | 1-5-2017 
+0CG620 | 2KM000 | dalam bank | - | IDR | 2000000 | 1971600 | 1-5-2017 
+0CG620 | 78736122 | antar bank | Bank bii | IDR | 500000 | 1443300 | 1-5-2017 
+3VB020 | 2HE297 | dalam bank | - | IDR | 1000000 | 1932707 | 1-5-2017 
+1XY789 | 87120016623 | antar bank | Bank cimb niaga | IDR | 1500000 | 1493334 | 1-5-2017 
+1XY789 | 3FN501 | dalam bank | - | IDR | 70000 | 1423334 | 1-5-2017 
+8WL366 | 163198911 | antar bank | Bank icbc nisp | IDR | 350000 | 448007 | 1-5-2017 
+8WL366 | 5IQ837 | dalam bank | - | IDR | 100000 | 348007 | 1-5-2017 
+5CM864 | 2PW414 | dalam bank | - | IDR | 2100000 | 2000000 | 1-5-2017 
+5CM864 | 63719989828 | antar bank | Bank uob | IDR | 800000 | 1171700 | 1-5-2017 
+7HS138 | 4ER789 | dalam bank | - | IDR | 423888 | 516112 | 1-5-2017 
